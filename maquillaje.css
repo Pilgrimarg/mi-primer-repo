@@ -1,0 +1,17 @@
+body{background-color: rgb(236, 231, 179)}
+h1{ color:blue; font-family: Georgia, 'Times New Roman', Times, serif;text-align: center
+}
+img{ border-radius: 50%; border: 5px solid greenyellow;display: block;
+    margin: auto;}
+h5{color: brown; text-align: center;text-decoration: underline;}
+#obj{text-align: center;font-style: italic;}
+h3{border: 1px solid gray; width: 25%; text-align: center;margin: auto; margin-top: -3cm;
+}
+ul{list-style: none;
+    display: inline-block;
+padding-left: 45%;}
+.est{text-align: center}
+.estud{border: 1px solid gray; width: 25%; text-align: center;margin: auto;}
+.dt{font-family: Georgia, 'Times New Roman', Times, serif;font-size: small;color:rgb(1, 39, 1) ;
+    border: 2px solid rgb(86, 8, 8);
+width: 18%; height: 5%;}
